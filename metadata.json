@@ -1,0 +1,5 @@
+{
+  "name": "Watermark Remover AI",
+  "description": "An intelligent tool to remove watermarks from images, specifically optimized for Doubao and Jimeng watermarks, using Google Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
